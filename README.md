@@ -7,7 +7,7 @@
 
 ## Funcionamento
 
-Uma câmera realiza aquisição de video sobre uma região dentro do alcance do manipulador robótico, as imagens são enviadas para um computador para serem processadas, produzindo um comando enviado a um conversor USB serial, seguindo para um microcontrolador PIC, que controla o braço robótico de acordo com o comando recebido na porta serial. 
+Uma câmera realiza aquisição de video sobre a região dentro do alcance do manipulador robótico. As imagens são processadas no computador, produzindo um comando enviado a um conversor USB serial, seguindo para um microcontrolador PIC, que controla o braço robótico de acordo com o comando. 
 
 ## Hardware
 
